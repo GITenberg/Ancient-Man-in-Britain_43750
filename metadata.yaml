@@ -1,0 +1,31 @@
+_repo: Ancient-Man-in-Britain_43750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43750-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mackenzie, Donald A. (Donald Alexander)
+    alias: Mackenzie, Donald Alexander
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '3303'
+    url: http://www.gutenberg.org/2009/agents/3303
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43750'
+  lccn: '23007291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Antiquities'
+- !lcc 'GN'
+- !lcsh 'Prehistoric peoples -- Great Britain'
+- !lcsh 'Prehistoric peoples -- Europe'
+- !lcsh 'Great Britain -- History -- Roman period, 55 B.C.-449 A.D.'
+title: Ancient Man in Britain
+url: http://www.gutenberg.org/ebooks/43750
